@@ -37,7 +37,7 @@ const copyPassword = useCallback(()=>{
 
   return (
    <div className=' w-full h-screen bg-cyan-900'>
-    <h1 className="md:text-3xl text-xl mt-8 text-center font-bold text-white">Password Generator</h1>
+    <h1 className="md:text-3xl text-2xl text-center font-bold text-white">Password Generator</h1>
 
     <div className="md:w-full w-80 max-w-md mx-auto shadow-md rounded-lg my-8 py-8 px-4 bg-gray-700 text-orange-500">
       <div className=" flex shadow rounded-lg overflow-hidden ">
